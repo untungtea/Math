@@ -1,0 +1,13 @@
+a=10
+
+a+=2
+print("A + 2 =", a)
+a-=3
+print("A - 3 =", a)
+a*=10
+print("A * 10 =", a)
+a/=5
+print("A / 5 =", a)
+a**=2
+print("A ** 2 =", a)
+print("Nilai a sekarang adalah:", a)
